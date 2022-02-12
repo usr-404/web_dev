@@ -1,5 +1,15 @@
 h1 {
-	color : blue }
+	color : #fff8dc; 
+    font-size: 50; 
+    font-family: consolas }
+
 body {
-    color: purple;
-    background-color: #d8da3d }
+    color: #ff8c00;
+    background-color: #2f4f4f }
+
+p { color :  #fff8dc; 
+    font-size: 50 }
+
+a { color : #ffa07a; 
+    font-size: 50; 
+    font-family: "Copperplate Gothic Bold";}
